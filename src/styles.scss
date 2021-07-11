@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  font-size: 17px;
+  line-height: 1;
+  width: 100%;
+  height: 100%;
+  transition: all .5s;
+}
+
